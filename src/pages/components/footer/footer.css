@@ -1,0 +1,13 @@
+.footerComponent {
+  background-color: var(--main-second-color);
+  padding: 10px;
+  align-items: end;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.bg-p {
+  background-color: #6a77f0;
+}
